@@ -1,0 +1,5 @@
+Vivek Agrawal,vivekagr20,passwd@123,lib
+Subodh Kumar,subodhkum20,passwd@123,student
+Vikash Kumar,vikashk20,passwd@123,prof
+Sanidhya Shrivastava,sanidhya20,passwd@123,student
+Apoorva,apoorva20,passwd@123,prof
